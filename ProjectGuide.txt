@@ -1,8 +1,0 @@
-Instructions:
-1) Create a db and import file db_library.sql ( from folder LibraryAdmin ).
-2) Open file application/config/database.php and Change hostname, username, password and database accordingly.
-3) URL : hostname/LibraryAdmin
-4) Click on Issue and enter existing user email in prompt box. ( Can create a new user by hitting and insert statement into the tbl_users). 
-5) Click on Return and book will be returned.
-6) Searh book by entering its details into the search box.
-7) Books and Users tables are static so we need to insert data into it from backend.
